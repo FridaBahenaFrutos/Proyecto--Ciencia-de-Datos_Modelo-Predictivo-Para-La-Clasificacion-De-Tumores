@@ -1,0 +1,1 @@
+Este notebook presenta el trabajo anterior para el desarrollo del modelo predictor. Aqui se realizo una pequeña serie de tests utilizando un ciclo for y la funcion del metodo de random forest que se programo. Se delimitaron los test a 20 y en todos ellos el modelo predictor es muy bueno para predecir tumores malignos, la prediccion de el tumor benigno es buena. 

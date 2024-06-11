@@ -1,0 +1,4 @@
+El conjunto de datos se obtuvo de la plataforma kaggle, los datos son recuperados de la universidad de Wisconsin mediante la digitalizacion de imagenes obtenidas con la tecnica de diagnostico PAAF. nEl conjunto de datos incluye información detallada sobre los tumores.
+Para cada imagén, se calcularon la media, el error estándar y el valor más alto ("peor" o mayor, definido como la media de los tres valores más grandes), resultando en un total de 30 características por imágen.
+Resultados del Conjunto de Datos:
+El conjunto de datos consta de un total de 569 casos, de los cuales 357 son benignos y 212 son malignos. 
